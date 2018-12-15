@@ -18,5 +18,6 @@
     "removeComments": false,
     "preserveConstEnums": true
   },
-  "include": ["src"]
+  "include": ["src"],
+  "files": ["src/shared.d.ts"]
 }
